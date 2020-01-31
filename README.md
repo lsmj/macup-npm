@@ -16,10 +16,10 @@ macup_packages+=(
 )
 ```
 
-Add NPM packages to the **macup_npm_packages** array to be managed globally by NPM. Node is installed via Homebrew if it's not already installed. Homebrew is also installed if it's not already installed. All global packages are then listed. Finally, packages that are outdated are highlighted.
+Add NPM packages to the **macup_node_packages_npm** array to be managed globally by NPM. Node is installed via Homebrew if it's not already installed. Homebrew is also installed if it's not already installed. All global packages are then listed. Finally, packages that are outdated are highlighted.
 
 ```bash
-macup_npm_packages+=(
+macup_node_packages_npm+=(
   yarn@berry
 )
 ```
