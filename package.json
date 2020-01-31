@@ -1,7 +1,7 @@
 {
   "name": "macup-npm",
   "version": "0.0.0",
-  "description": "macup module that installs node and npm modules",
+  "description": "macup module that installs node and npm packages using npm",
   "main": "index.js",
   "scripts": {
     "test": "echo \"No test specified\" && exit 0",
