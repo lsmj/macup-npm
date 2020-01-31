@@ -5,7 +5,7 @@ A [macup](https://github.com/eeerlend/macup-builder) module that enables you to 
 ## Installation
 Run the following command to add it to your repo
 ```bash
-npm install eeerlend/macup-npm
+npm install lsmj/macup-npm
 ```
 
 ## Configuration

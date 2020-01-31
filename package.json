@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eeerlend/macup-npm.git"
+    "url": "git+https://github.com/lsmj/macup-npm.git"
   },
   "keywords": [
     "macup",
@@ -21,7 +21,7 @@
   "author": "LSMJ",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/eeerlend/macup-npm/issues"
+    "url": "https://github.com/lsmj/macup-npm/issues"
   },
-  "homepage": "https://github.com/eeerlend/macup-npm#readme"
+  "homepage": "https://github.com/lsmj/macup-npm#readme"
 }
